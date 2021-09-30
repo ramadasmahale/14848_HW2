@@ -10,3 +10,5 @@ HW2_Q1.png -> Screenshot of Hello world message on GCP. Please check the URL for
 
 HW2_Q2.png -> Screenshot of jupyter notebook on running the MML spark docker container
 
+Kubectl_deployment.png -> Screenshot of deployment of Ghost container on my cluster
+
